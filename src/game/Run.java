@@ -5,6 +5,7 @@ public class Run {
 	public static void main(String[] args) {
 		//VARIABLES
 		Card[] deck=new Card[40];
+		Card[] discard=new Card[40];
 		Fluster[] flusterDeck=new Fluster[13];
 		Card[] player1=new Card[5];
 		Card[] player2=new Card[5];
